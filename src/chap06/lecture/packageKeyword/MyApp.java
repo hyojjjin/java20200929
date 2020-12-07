@@ -13,7 +13,7 @@ public class MyApp {
 
 	MyClass o2 = new MyClass();
 	
-	chap06.lecture.MyClass o3 = new chap06.lecture.MyClass();
+	chap06.chap06.lecture.MyClass o3 = new chap06.chap06.lecture.MyClass();
 	
 	java.util.Scanner scanner = new java.util.Scanner(System.in);
 	Scanner s2 = new Scanner(System.in);
